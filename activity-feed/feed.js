@@ -1,11 +1,10 @@
 [
 
 {
-    "published": "2013-02-10T15:04:55Z",
+    "published": Date("2013-02-10T15:04:55Z"),
     "actor": {
         "url": "http://www.eba.gov.tr/profil/_n7G-OtF8GTV5Tbt2HLxlfkoDF5RZ-5Gi6Zmxpk2izs?tayyar-besik",
         "objectType": "person",
-        "id": 32158520130,
         "displayName": "Tayyar BEŞİK"
     },
     "verb": "post",
@@ -17,16 +16,54 @@
             "url": "http://video.eba.gov.tr/307/015/04c/584/fda/034/a59/b75/89a/d2b/c68/f4f/2d9/1ca/001/30701504c584fda034a59b7589ad2bc68f4f2d91ca001.jpg",
             "width": 726,
             "height": 1000
-        }        
+        }
+    },
+    "comments": {
+        "count": 3,
+        "items": [
+            {
+                "url": "http://www.eba.gov.tr/profil/_n7G-OtF8GTV5Tbt2HLxlfkoDF5RZ-5Gi6Zmxpk2izs?tayyar-besik",
+                "author": "Tayyar BEŞİK",
+                "published": Date("2013-02-10T15:04:55Z"),
+                "text": "Lorem ipsum dolor"
+            },
+            {
+                "url": "http://www.eba.gov.tr/profil/_n7G-OtF8GTV5Tbt2HLxlfkoDF5RZ-5Gi6Zmxpk2izs?tayyar-besik",
+                "author": "Tayyar BEŞİK",
+                "published": Date("2013-02-10T15:04:55Z"),
+                "text": "Lorem ipsum dolor"
+            },
+            {
+                "url": "http://www.eba.gov.tr/profil/_n7G-OtF8GTV5Tbt2HLxlfkoDF5RZ-5Gi6Zmxpk2izs?tayyar-besik",
+                "author": "Tayyar BEŞİK",
+                "published": Date("2013-02-10T15:04:55Z"),
+                "text": "Lorem ipsum dolor"
+            }
+        ]
+    },
+    "likes": {
+        "count": 1,
+        "items": [
+            {
+                "url": "http://www.eba.gov.tr/profil/_n7G-OtF8GTV5Tbt2HLxlfkoDF5RZ-5Gi6Zmxpk2izs?tayyar-besik",
+                "author": "Tayyar BEŞİK",
+                "published": Date("2013-02-10T15:04:55Z")
+            },
+            {
+                "url": "http://www.eba.gov.tr/profil/_n7G-OtF8GTV5Tbt2HLxlfkoDF5RZ-5Gi6Zmxpk2izs?tayyar-besik",
+                "author": "Tayyar BEŞİK",
+                "published": Date("2013-02-10T15:04:55Z")
+            }
+        ]
     }
 }
+
 ,
 {
     "published": "2013-01-11T10:12:00Z",
     "actor": {
         "url": "http://www.eba.gov.tr/profil/_n7G-OtF8GTV5Tbt2HLxlfkoDF5RZ-5Gi6Zmxpk2izs?tayyar-besik",
         "objectType": "person",
-        "id": 32158520130,
         "displayName": "Tayyar BEŞİK"
     },
     "verb": "like",
